@@ -1,0 +1,7 @@
+Inicio
+    Declarar variable: Suma = 0
+    Para N desde 1 hasta 10 Hacer
+        Suma = Suma + N
+    Fin Para
+    Escribir "La suma es:", Suma
+Fin
